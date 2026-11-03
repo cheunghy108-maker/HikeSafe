@@ -22,34 +22,6 @@ Instant Triage Guidance: Step-by-step emergency first-aid protocols, trauma mana
 
 Resource Efficiency: Engineered with a minimal footprint to preserve device power in multi-day off-grid emergencies.
 
-🛠️ Tech Architecture
-
-[ Emergency Scenario (No Signal) ]
-                │
-                ▼
-      ┌──────────────────┐
-      │   HikeSafe UI    │ (High-Stress Minimalist Layout)
-      └────────┬─────────┘
-               │
-               ▼
-   ┌──────────────────────┐
-   │  Local Quantized AI  │ ◄── [ On-Device SLM Inference Engine ]
-   └───────────┬──────────┘
-               │
-               ▼
- ┌──────────────────────────┐
- │ Offline First-Aid Kernel │ ◄── [ Embedded Survival Protocols ]
- └──────────────────────────┘
-
-
-Environment: Built and exported via Apple Xcode.
-
-Inference Engine: Optimized local runtime running quantized model weights.
-
-Dataset: Restructured public domain wilderness medicine guidelines and verified outdoor emergency protocols.
-
-State Management: Fully client-side state preservation.
-
 🚀 Getting Started
 
 Installation & Setup
